@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/james/Desktop/TickTick(2)/TickTick/TickTick/Content/Sounds/snd_music.mp3</SourceFile>
+  <SourceTime>2022-10-10T00:27:08-07:00</SourceTime>
+  <DestFile>C:/Users/james/Desktop/TickTick(2)/TickTick/TickTick/Content/bin/DesktopGL/Content/Sounds/snd_music.xnb</DestFile>
+  <DestTime>2023-10-27T14:49:25.5424713-07:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T04:44:56-07:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T04:44:56-07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/james/Desktop/TickTick(2)/TickTick/TickTick/Content/bin/DesktopGL/Content/Sounds/snd_music.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
